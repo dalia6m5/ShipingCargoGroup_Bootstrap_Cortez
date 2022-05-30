@@ -325,9 +325,6 @@
 }
 
 #contenido #titulo-qs {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     background-image: url(../imagenes/Imagen-qs.png);
     background-repeat:no-repeat;
     background-position: center;
@@ -343,14 +340,6 @@
    
 }
 
-#contenido #info {
-   /*  grid-area: info; */
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-
-}
 
 #contenido #info .descripcion p {
    max-width: 700px;
